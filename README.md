@@ -15,6 +15,4 @@ This repository contains implementations of basic **Computer Organization and Ar
 ## How to Run
 Compile and run the C program using a C compiler:
 
-```bash
-gcc addition.c -o addition
-./addition
+
