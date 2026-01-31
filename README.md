@@ -1,2 +1,20 @@
-# COA_Algorithms
-Collection of Computer Organization and Architecture (COA) algorithms implemented in C, including binary addition, Booth’s algorithm, and other fundamental operations.
+# COA Algorithms
+
+This repository contains implementations of basic **Computer Organization and Architecture (COA)** tasks in C.
+
+## Current Implementation
+- Binary Addition (`addition.c`)
+
+## Future Implementations
+- Booth's Algorithm (`booth_algorithm.c`)
+- Binary Subtraction
+- Binary Multiplication
+- Division
+- etc
+
+## How to Run
+Compile and run the C program using a C compiler:
+
+```bash
+gcc addition.c -o addition
+./addition
