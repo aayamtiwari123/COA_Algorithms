@@ -11,8 +11,3 @@ This repository contains implementations of basic **Computer Organization and Ar
 - Binary Multiplication
 - Division
 - etc
-
-## How to Run
-Compile and run the C program using a C compiler:
-
-
